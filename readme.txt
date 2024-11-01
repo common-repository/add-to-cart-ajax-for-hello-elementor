@@ -1,9 +1,9 @@
 === Add to Cart Ajax for Hello Elementor ===
-Contributors: fahadmahmood, mklacroix, marcusig
+Contributors: fahadmahmood, mklacroix, marcusig, invoicepress
 Tags: hello elementor, woocommerce, ajax, add to cart, product page
 Requires at least: 4.4
-Tested up to: 6.4
-Stable tag: 1.1.0
+Tested up to: 6.6
+Stable tag: 1.1.1
 Requires PHP: 7.0
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

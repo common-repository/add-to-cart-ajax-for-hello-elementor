@@ -3,7 +3,7 @@
 	Plugin Name: Add to Cart Ajax for Hello Elementor
 	Plugin URI: https://wordpress.org/add-to-cart-ajax-for-hello-elementor
 	Description: Add to Cart Ajax for WordPress Theme Hello Elementor / Mini Cart.
-	Version: 1.1.0
+	Version: 1.1.1
 	Author: Fahad Mahmood
 	Author URI: http://androidbubble.com/blog/
 	Text Domain: atcafhe
